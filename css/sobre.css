@@ -3,7 +3,7 @@ body{
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	margin-left:auto;
 	margin-right:auto;
-	width:940px;
+	width:940px;	
 }
 h1{
 	background-image: url(../img/sobre-background.jpg);
@@ -56,6 +56,6 @@ p::first-letter {
 h1 + p {
 	text-indent: 0;
 }
-p::first-line {
+:not(p) + p::first-line {
 	font-variant: small-caps;
 }
