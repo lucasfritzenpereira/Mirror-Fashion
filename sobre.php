@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <title> Sobre a Mirror Fashion</title>
 <link rel="stylesheet" href="css/sobre.css">
+
 </head>
 
 <body>
@@ -12,7 +13,7 @@
 
 <p>
 A <strong>Mirror Fashion</strong> é a maior empresa comércio eletrônico no segmento de moda em todo o mundo. 
-Fundada em 1932, possui filiais em 124 países, sendo líder de mercado com mais de 90% de 
+Fundada há <?php print date("Y") -1932; ?> anos , possui filiais em 124 países, sendo líder de mercado com mais de 90% de 
 participação em 118 deles. 
 </p>
 
@@ -53,7 +54,7 @@ nos escritórios em todo país.
 <p>Dada a importância econômica da empresa para o Brasil, a família <em>Pelho</em> já recebeu diversos prêmios, 
 homenagens e condecorações. Todos os presidentes do Brasil já visitaram as instalações da Mirror 
 Fashion, além de presidentes da União Européia, Ásia e o secretário-geral da ONU.</p>
-<h2 id="diferenciais">>Diferenciais</h2>
+<h2 id="diferenciais">Diferenciais</h2>
 <ul>
 <li>Menor preço do varejo, garantido</li>
 <li>Se você achar uma loja mais barata, leva o produto de graça</li>
