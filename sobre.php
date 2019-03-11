@@ -8,7 +8,7 @@
 </head>
 
 <body>
-<img src="img/logo.png" alt="Logo da Mirror Fashion">
+<a href="index.html"><img src="img/logo.png" alt="Logo da Mirror Fashion"></a>
 <h1>A Mirror Fashion</h1>
 
 <p>
